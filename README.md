@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">A curious software developer</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romangdev" alt="romangdev" /></a> </p>
+<h3 align="center">A curious software developer with a drive for developing both helpful and entertaining applications.</h3>
 
 - 📫 How to reach me **romangeathersdev@gmail.com**
 
 - ⚡ Fun fact **I had an unbelievably random 6 month period of living in Vietnam**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<hr>
+
+<h3 align="center">Connect With Me On Socials:</h3>
+<p align="center">
 <a href="https://twitter.com/romangdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="romangdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/romangeathers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romangeathers" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<hr>
+
+<h3 align="center">Technologies I've Used:</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/-Rubocop-000000?logo=rubocop&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white&style=plastic">
@@ -26,6 +28,7 @@
   <img src="https://img.shields.io/badge/-SQL-blue?&logoColor=white&style=plastic">
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romangdev&show_icons=true&locale=en" alt="romangdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romangdev&" alt="romangdev" /></p>
+<hr>
+<div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romangdev&show_icons=true&locale=en" alt="romangdev" /></p>
+</div>
