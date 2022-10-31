@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/-RSpec-FE405F?&style=plastic">
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/-SQL-blue?&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-Bootstrap-7912F2?&style=plastic">
+  <img src="https://img.shields.io/badge/-MaterialUI-007BF8?&style=plastic">
+  <img src="https://img.shields.io/badge/-React.js-5ED4F3?&style=plastic">
 </div>
 
 <hr>
