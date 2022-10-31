@@ -28,6 +28,3 @@
 </div>
 
 <hr>
-<div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romangdev&show_icons=true&locale=en" alt="romangdev" /></p>
-</div>
